@@ -69,7 +69,7 @@
     color: white;
 }
 .eclips{
-    background-image: url(/Assets/images/Ellipse\ 3.png);
+    background-image: url(../images/Ellipse\ 3.png);
     
     
     background-repeat: no-repeat;
@@ -78,7 +78,7 @@
 }
 
 .eclips2{
-    background-image: url(/Assets/images/gola-2.png);
+    background-image: url(../images/gola-2.png);
     background-repeat: no-repeat;
     height: 553px;
     position: relative;
